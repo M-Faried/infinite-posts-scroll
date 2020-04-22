@@ -1,0 +1,16 @@
+{
+  "name": "infinite-posts-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gh-pages -d dist"
+  },
+  "homepage": "https://m-faried.github.io/infinite-posts-scroll",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
